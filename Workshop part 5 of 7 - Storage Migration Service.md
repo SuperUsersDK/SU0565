@@ -1,4 +1,4 @@
->   **Workshop part 3 of 4**  
+>   **Workshop part 5 of 7**  
 >   **Using Storage Migration Service on Server 2019**
 
 >   In this Workshop, you will test functionality of Storage Migration Service
